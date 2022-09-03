@@ -1,4 +1,5 @@
 # Stock-analysis
+
 ##Overview of Project
 
 My friend Steve recently graduated with a financial degree. His parents are very proud of him to the point where he becomes their financial advisor. The parents are really into green companies and want to invest in some. Curently they are looking into DAQO New Energy Corporation. Which is a company that makes the silicon wafers for solar panels. The parents want to only invest money into DAQO New Corporation but Steve want to diversify the portfolio. 
