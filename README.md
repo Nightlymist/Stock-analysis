@@ -1,14 +1,13 @@
 # Stock-analysis
-
-##Overview of Project
+## Overview of Project
 
 My friend Steve recently graduated with a financial degree. His parents are very proud of him to the point where he becomes their financial advisor. The parents are really into green companies and want to invest in some. Curently they are looking into DAQO New Energy Corporation. Which is a company that makes the silicon wafers for solar panels. The parents want to only invest money into DAQO New Corporation but Steve want to diversify the portfolio. 
 
-###Purpose
+### Purpose
 
 The purpose of this assignment is to determine whether the refactory code was faster than the original code. The original code was to analyze the change in stock over 2017 and 2018 from the start of the year to the end of the year.  
 
-##Results
+## Results
 
 
 Refactory code:
@@ -73,7 +72,7 @@ Figure 3.
 
 Figure 4. 
 
-##Summary
+## Summary
 
 The advantages of refactory code is taking existing code and making it more efficient. This can be either done by using less code which then uses less memory in the computer or by improving the logic of the code to make it easier for other people reading the code to understand the code. The advantage of using the refactory code is using less time to get the results of the code by mili-seconds. 
 
